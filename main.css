@@ -278,8 +278,8 @@ p a {
   font-weight: 400;
   letter-spacing: .5px;
   text-transform: uppercase;
-  display: inline-block;
-  text-align: left;
+  //display: inline-block;
+  text-align: right;
 }
 
 /*
